@@ -1,1 +1,1 @@
-# CNN-Siamese-Network
+# Similarity
